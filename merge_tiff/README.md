@@ -10,4 +10,5 @@ Ordinary merging by gdal_merge.py:
 ![blank_space](https://github.com/anikfal/GIS_solutions/assets/11738727/afb8346e-adcc-4059-9b5a-79580505d234)
 
 Correct merging by merge_tif_by_null.sh:
-![merged_okay](https://github.com/anikfal/GIS_solutions/assets/11738727/6be7fd4f-d1b4-43f4-b40b-b8cb4e592ff6)
+![1](https://github.com/anikfal/GIS_solutions/assets/11738727/c769f966-38ae-4f41-ae4a-8fbb860f361b)
+
