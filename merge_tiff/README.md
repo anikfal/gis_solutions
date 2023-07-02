@@ -1,4 +1,11 @@
-Codes, comand lines, and tricks for handling common GIS problems
+Merging 2 TIF files with nana values:
+
+Method 1:
+open merge_tif_by_null.py and put the names of your TIF files. You need to install the python packages of xarray and rioxarray:
+python merge_tif_by_null.py
+
+Method 2:
+This is a shell script running gdal commands. However, it is mostly coorect, but it cannot avoid the sharing area between the 2 TIF files:
 
 Geotif 1:
 ![1](https://github.com/anikfal/GIS_solutions/assets/11738727/db583c95-b7b9-44b3-bff1-3dfbd3a075a9)
