@@ -1,0 +1,5 @@
+Utility to download SENTINEL-2 data over a period of time for specific points.
+
+Please provide the required information in <user_inputs.py> and <points_coordinates.csv>.
+
+In case of problems, please contact Amir H. Nikfal <a.nikfal@fz-juelich.de> or (preferably) make new issues in the repository.
