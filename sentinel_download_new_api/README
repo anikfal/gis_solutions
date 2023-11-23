@@ -1,5 +1,5 @@
-Utility to download SENTINEL-2 data over a period of time for specific points.
+Copernicus Open Access Hub is closed at the end of October 2023: https://scihub.copernicus.eu/
+
+This is a new utility for easy download of SENTINEL-2 data over a period of time for specific points.
 
 Please provide the required information in <user_inputs.py> and <points_coordinates.csv>.
-
-In case of problems, please contact Amir H. Nikfal <a.nikfal@fz-juelich.de> or (preferably) make new issues in the repository.
